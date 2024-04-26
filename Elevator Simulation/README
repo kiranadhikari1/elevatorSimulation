@@ -1,0 +1,11 @@
+Kiran Adhikari
+Student Number: 101182874
+Assignment 3
+
+To run: Open the project folder in QT creator and click run. The Simulation UI should open and please follow my video demonstration for UI/7 scenario guide/information.
+
+Youtube link: https://www.youtube.com/watch?v=j-rtXne6Q1c
+
+
+Files: display.h display.cpp elevator.h elevator.cpp mainwindow.h mainwindow.cpp passenger.h passenger.cpp main.cpp mainwindow.ui
+
